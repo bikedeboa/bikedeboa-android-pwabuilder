@@ -1,22 +1,28 @@
 {
-    "prepare_queue": {
-        "installed": [],
-        "uninstalled": []
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-hostedwebapp": {
+      "PACKAGE_NAME": "br.com.bikedeboa.www"
     },
-    "config_munge": {
-        "files": {}
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.bikedeboa.www"
     },
-    "installed_plugins": {
-        "cordova-plugin-hostedwebapp": {
-            "PACKAGE_NAME": "br.com.bikedeboa.www"
-        },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "br.com.bikedeboa.www"
-        }
-    },
-    "dependent_plugins": {
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "br.com.bikedeboa.www"
-        }
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "br.com.bikedeboa.www"
     }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "br.com.bikedeboa.www"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "br.com.bikedeboa.www"
+    }
+  }
 }
