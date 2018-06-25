@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder",
+    "generationToolVersion": "2.0.3-rc.0",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.1",
+    "generatedFrom": "CLI",
+    "generationDate": "2018-06-23 04:14:21 Z",
+    "generatedURL": "https://www.bikedeboa.com.br/manifest.json"
+}
